@@ -1,5 +1,5 @@
 # Simple-Calculator
-Just a simple calculator written in Java used to compute various basic operations such as:
+Just a simple calculator program that can output its calculations by USB serial to an external LCD screen:
 
 - Common multiplication, division, subtraction and addition.
 - Square-root and powers.
